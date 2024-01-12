@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Laravel, VueJS, Quasar**
 
+- 📝 My friend [@bryanbill](https://github.com/bryanbill) and I write articles about GIS development at: [MapMinds](https://mapminds.hashnode.dev)
+
 - 📫 How to reach me **rkaranja303@gmail.com**
 
 - ⚡ Fun fact **Unpopular Opinion: People who haven't watched The Office suck**
